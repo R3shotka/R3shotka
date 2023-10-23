@@ -1,4 +1,4 @@
-**Проєкт: Мова програмування "PyExpo"**<br>
+**Проєкт: Мова програмування "PyExpo"** <p align="left"><a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a></p> 
 <br>
 **Опис проєкту:**<br>
 Мова програмування "PyExpo" - це потужна мова програмування, яка містить компілятор, стандартну бібліотеку та документацію. Вона розроблена для полегшення роботи розробників і використовується в різних сферах індустрії, від веб-розробки до наукових досліджень.
