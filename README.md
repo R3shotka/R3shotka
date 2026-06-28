@@ -9,5 +9,5 @@ I'm Matvii — a Backend .NET Developer.
 - Entity Framework Core
 - PostgreSQL · MS SQL Server
 - Docker · Azure Container Apps
-- AI integration · Computer Vision
+- AI integration · Computer Vision · Machine learning
 - Swagger · Postman
